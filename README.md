@@ -4,8 +4,8 @@ A hands-on intro to GraphQL and Apollo Server @ ReactNYC
 January 30, 2019
 
 **Instructor: Eve Porcello**
-[Twitter](https://www.twitter.com/eveporcello)
-[Mailing List](https://moonhighway.com)
+- [Twitter](https://www.twitter.com/eveporcello)
+- [Moon Highway Mailing List](https://moonhighway.com)
 
 ## GraphQL Workshop Links and Resources
 
