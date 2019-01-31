@@ -5,6 +5,7 @@ January 30, 2019
 
 **Instructor: Eve Porcello**
 - [Twitter](https://www.twitter.com/eveporcello)
+- [Email](mailto:eve@moonhighway.com)
 - [Moon Highway Mailing List](https://moonhighway.com)
 
 ## GraphQL Workshop Links and Resources
