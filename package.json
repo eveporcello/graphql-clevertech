@@ -1,5 +1,5 @@
 {
-  "name": "react-nyc",
+  "name": "graphql-clevertech",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "nodemon": "nodemon ."
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Eve Porcello",
+  "license": "Moon Highway",
   "dependencies": {
     "nodemon": "^1.18.9"
   }
